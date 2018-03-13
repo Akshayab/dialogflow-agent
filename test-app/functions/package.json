@@ -1,0 +1,17 @@
+{
+  "name": "test-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "actions-on-google": "^1.5.1",
+    "firebase-admin": "^5.4.3",
+    "firebase-functions": "^0.7.2",
+    "request": "^2.83.0"
+  }
+}
